@@ -8,4 +8,4 @@
 
 ### tiktok2
 1. Data exploration and cleaning - EDA Results
-2. Visualization building - Python and Tableau dashboards
+2. Visualization building - Python and Tableau
