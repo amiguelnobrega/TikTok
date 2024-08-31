@@ -4,7 +4,7 @@
 
 ### tiktok1
 1. Get the dataset ready for Exploratory Data Analysis (EDA)
-2. compile summary information about the data and begin data exploration
+2. Compile summary information about the data and begin data exploration
 
 ### tiktok2
 1. Data exploration and cleaning - EDA Results
