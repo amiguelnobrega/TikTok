@@ -9,3 +9,7 @@
 ### tiktok2
 1. Data exploration and cleaning - EDA Results
 2. Visualization building - Python and Tableau
+
+### tiktok3
+1. Compute descriptive statistics
+2. Conduct hypothesis testing
