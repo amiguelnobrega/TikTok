@@ -14,6 +14,6 @@
 1. Compute descriptive statistics
 2. Conduct hypothesis testing
 
-###tiktok4
+### tiktok4
 1. Build a regression model
 2. Evaluate the regression model
