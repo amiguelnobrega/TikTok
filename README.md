@@ -17,3 +17,7 @@
 ### tiktok4
 1. Build a regression model
 2. Evaluate the regression model
+
+### tiktok5
+1. Build a machine learning model
+2. Final report
